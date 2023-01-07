@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
 using EFCore6.Dal.ValueGenerators;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace EFCore6.Dal.Models
 {
