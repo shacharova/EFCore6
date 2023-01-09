@@ -55,5 +55,4 @@ namespace EFCore6.Dal.Models
         }
     }
 
-
 }

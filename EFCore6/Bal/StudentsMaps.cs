@@ -66,7 +66,7 @@ namespace EFCore6.Bal
             #endregion
 
 
-            #region Mapping of BMs to 3rd party RMs
+            #region Mapping of BMs to 3rd party RMs or External RMs
 
             #endregion
         }
